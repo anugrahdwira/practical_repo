@@ -1,0 +1,47 @@
+[
+  {
+    "Artist":"Blink-182",
+    "Album":"Dude Ranch",
+    "Release Date":"June 17, 1997",
+    "Label":"Cargo; MCA",
+    "Length":"44:54",
+    "Producer":"Mark Hoppus",
+    "Genre":"Skate Punk; Punk Rock; Pop Punk"
+  },
+  {
+    "Artist":"Blink-182",
+    "Album":"Enema of the State",
+    "Release Date":"June 1, 1999",
+    "Label":"MCA",
+    "Length":"35:17",
+    "Producer":"Jerry Finn",
+    "Genre":"Skate Punk; Punk Rock; Pop Punk"
+  },
+  {
+    "Artist":"Blink-182",
+    "Album":"Take Off Your Pants and Jacket",
+    "Release Date":"June 12, 2001",
+    "Label":"MCA",
+    "Length":"38:54",
+    "Producer":"Jerry Finn",
+    "Genre":"Punk Rock; Pop Punk"
+  },
+  {
+    "Artist":"Blink-182",
+    "Album":"Untitled",
+    "Release Date":"November 18, 2003",
+    "Label":"Geffen",
+    "Length":"49:16",
+    "Producer":"Jerry Finn",
+    "Genre":"Pop Punk, Alternative Rock"
+  },
+  {
+    "Artist":"Blink-182",
+    "Album":"Greatest Hits",
+    "Release Date":"October 31, 2005",
+    "Label":"Geffen",
+    "Length":"54:38",
+    "Producer":"O, Mark Trombino, Jerry Finn, Blink-182",
+    "Genre":"Skate Punk; Punk Rock; Pop Punk; Alternative Rock"
+  }
+]

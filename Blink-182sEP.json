@@ -1,0 +1,39 @@
+[
+  {
+    "Artist":"Blink-182",
+    "Album":"Wasting Time",
+    "Release Date":"June 28, 1996",
+    "Length":"10:35",
+    "Genre":"Punk Rock"
+  },
+  {
+    "Artist":"Blink-182",
+    "Album":"Lemmings / Going Nowhere",
+    "Release Date":"November 23, 1996",
+    "Label":"Grilled Cheese",
+    "Genre":"Punk Rock"
+  },
+  {
+    "Artist":"Blink-182",
+    "Album":"Short Bus",
+    "Release Date":"1994",
+    "Genre":"Punk Rock; Pop Punk; Skate Punk"
+  },
+  {
+    "Artist":"Blink-182",
+    "Album":"They Came to Conquer Uranus",
+    "Release Date":"1995",
+    "Label":"Cargo Music; Grilled Cheese",
+    "Length":"07:06",
+    "Genre":"Punk Rock; Skate Punk"
+  },
+  {
+    "Artist":"Blink-182",
+    "Album":"Dogs Eating Dogs",
+    "Release Date":"December 18, 2012",
+    "Label":"Viking Wizard Eyes",
+    "Length":"19:00",
+    "Producer":"Blink-182, Chris Holmes",
+    "Genre":"Pop Punk; Progressive Rock"
+  }
+]
